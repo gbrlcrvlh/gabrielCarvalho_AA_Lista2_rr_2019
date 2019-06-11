@@ -1,12 +1,12 @@
 ### [QUESTÃO – 02]
 ### Defina e dê exemplos:
-#### A) Graph
+#### A) Grafo
   - Um modelo de estrutura utilizado para representar relações entre pares de objetos.
   -imagemdegrafo-
   
 #### B) Grafo conexo, acíclico e direcionado.
   - Grafo conexo: Uma estrutura em grafos onde existe um caminho entre qualquer par de vértice.  
-  -imagem-
+  ![Grafo Conexo](../conexo.png)
     
   - Grafo acíclico: Uma estrutura em grafos que não possui ciclos.  
   -imagem-
