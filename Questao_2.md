@@ -11,7 +11,7 @@
   - Grafo acíclico: Uma estrutura em grafos que não possui ciclos.  
   -imagem-
     
-  - Grafo direcionado: Uma estrutura em grafos onde as relações entre os pares de objetos podem não ser mútua.  
+  - Grafo direcionado: Uma estrutura em grafos onde as relações entre os pares de objetos podem não ser simétricas.  
   -imagem-  
     
 #### C) Adjacência x Vizinhança em grafos.
@@ -21,5 +21,27 @@
   - Vizinhança: A relação de vizinhança não é simétrica. **V** pode ser vizinho de **w**, porém **w** pode não ser vizinho de **v**.  
   -imagem-  
     
-#### D) Grafo planar.
-  - 
+#### D) Grafo planar.  
+  - Uma estrutura em grafos onde não há intercessão entre as arestas.  
+  -imagem-  
+  
+#### E) Grafo completo, clique e bipartido.  
+  - Grafo completo: Uma estrutura em grafos onde qualquer vértice **v** é adjacente a qualquer vértice **w**.  
+  -imagem-  
+  
+  - Clique: Em uma estrutura em grafos, um clique é um subgrafo onde obtém-se um grafo completo.  
+  -imagem-  
+  
+  - Grafo bipartido: Um grafo onde os vértice podem ser separados em dois conjuntos disjuntos **U** e **V** onde toda aresta no conjunto **U** possui um correspondente em **V**.  
+  -imagem-  
+  
+#### F) Grafo simples x multigrafo x digrafo.  
+  - Grafo simples: Uma estrutura básica onde as relações entre os vértices são simétricas.  
+  -imagem-  
+  
+  - Multigrafo: Uma estrutura onde os vértices **V** e **W** podem ter mais de uma relação.  
+  -imagem-
+  
+  - Dígrafo: Um grafo direcionado.  
+  -imagem-
+  
