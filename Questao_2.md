@@ -6,7 +6,7 @@
   
 #### B) Grafo conexo, acíclico e direcionado.
   - Grafo conexo: Uma estrutura em grafos onde existe um caminho entre qualquer par de vértice.  
-  ![Grafo Conexo](../Imagens/conexo.png)
+  ![Grafo Conexo](Imagens/conexo.png)
     
   - Grafo acíclico: Uma estrutura em grafos que não possui ciclos.  
   -imagem-
