@@ -10,4 +10,16 @@
 | **B** | 0 | 1 | 0 | 1 | 0 | 1 |
 | **C** | 1 | 1 | 1 | 0 | 0 | 0 |
 | **D**	| 0 | 0 | 1 | 1 | 1 | 0 |
-d
+  
+  - Matriz de adjacência: Um grafo G=(V,E) é representado por uma matriz **M**[**V**x**W**] onde sempre que um vértice **v** possuir uma relação o vértice **w**, a matriz **M**[v,w]=1, senão **M**[v,w]=0.  
+
+|  | **A** | **B** | **C** | **D** |
+| :--: | :--: | :--: | :--: | :--: |
+| **A** | 0 | 1 | 1 | 1 | 
+| **B** | 1 | 0 | 1 | 1 | 
+| **C** | 1 | 1 | 0 | 1 | 
+| **D**	| 1 | 1 | 1 | 0 |
+  
+  - Lista de adjacência: Um grafo G=(V,E) é representado por uma matriz **M**[**V**x**W**] onde sempre que um vértice **v** possuir uma relação o vértice **w**, a matriz **M**[v,w]=1, senão **M**[v,w]=0.  
+  
+![Grafo conexo](Imagens/listaadj.png)  
