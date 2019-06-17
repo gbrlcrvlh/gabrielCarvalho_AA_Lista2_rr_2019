@@ -23,3 +23,5 @@
   - Lista de adjacência: Um grafo G=(V,E) é representado por uma matriz **M**[**V**x**W**] onde sempre que um vértice **v** possuir uma relação o vértice **w**, a matriz **M**[v,w]=1, senão **M**[v,w]=0.  
   
 ![Grafo conexo](Imagens/listaadjj.png)  
+
+  - Lista de adjacência x Matriz de adjacência: Implementar a matriz de adjacência dá a vantagem na busca em tempo O(1) de uma possível relação, porém tem como desvantagem o espaço na memória para alocação da matriz **M**x**E**. Já implementar a lista de adjacência dá a vantagem do espaço na memória, porém a busca de uma possível relação não será mais em O(1).
