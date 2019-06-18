@@ -43,7 +43,7 @@
 
     int main() 
     { 
-        int arr[] = { 1, 2, 3, 4 }; 
+        int arr[] = { 40, 20, 30, 10, 30 }; 
         int size = sizeof(arr) / sizeof(arr[0]); 
 
         printf("Minimum number of multiplications is %d ", 
@@ -52,3 +52,5 @@
         getchar(); 
         return 0; 
     } 
+
+O código foi testado no site https://www.jdoodle.com/c-online-compiler com as entradas [ 40, 20, 30, 10, 30 ] e como saída o número mínimo de multiplicações sendo ele 26000.
